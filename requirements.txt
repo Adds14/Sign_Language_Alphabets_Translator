@@ -1,0 +1,10 @@
+# Core libraries for image processing and numerical operations
+opencv-python
+numpy
+
+# Hand tracking and classification module
+cvzone
+
+# Required for the Keras model classifier in cvzone
+# Specify a known working version if issues arise, e.g., tensorflow==2.10.0
+tensorflow

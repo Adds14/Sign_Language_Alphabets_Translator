@@ -1,0 +1,25 @@
+# created by virtualenv automatically
+*
+# Python
+__pycache__/
+*.pyc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+
+# Data and Model Files
+# Data folder contains all the collected images, which can be very large
+Data/
+# Model files are often large and might be better hosted elsewhere if large
+Model/
+
+# OpenCV/Temporary Files
+*~
+*.bak
+*.swp
+*.log
