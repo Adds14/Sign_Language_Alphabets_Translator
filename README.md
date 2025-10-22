@@ -57,7 +57,6 @@ A computer vision project that uses **OpenCV**, **cvzone**, and a trained **Kera
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: The `requirements.txt` should contain `opencv-python`, `numpy`, `cvzone`, and `tensorflow`)*
 
 4.  **Model Files:** Ensure your trained model files (`keras_model.h5` and `labels.txt`) are placed in the `Model/` directory before running `MAIN.py`.
 
